@@ -1,0 +1,13 @@
+.env
+db/
+blossom/
+team-relayarchive
+core
+team
+archive
+swarm
+team
+beeswax
+nip05-service
+clients/nostr-cms
+nostr-cms-dist
